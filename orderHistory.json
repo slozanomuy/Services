@@ -1,0 +1,22 @@
+{
+  "data": [ {
+    "date":"13/04/2019",
+    "payment_method": 1, -----> 1 en tienda, 2 pago en linea
+    "total": 7900.0,
+    "details": ["Muy Cubano", "Muy Muy paisa"]
+  },{
+    "date":"13/04/2019",
+    "payment_method": 1,
+    "total": 7900.0,
+    "details": ["Muy Cubano", "Muy Muy paisa"]
+  },{
+    "date":"13/04/2019",
+    "payment_method": 1,
+    "total": 7900.0,
+    "details": ["Muy Cubano", "Muy Muy paisa"]
+  }
+  ],
+  "status": "ok",
+  "code": 200,
+  "messages": ["ok","ok"]
+}
