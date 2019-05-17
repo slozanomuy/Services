@@ -1,19 +1,19 @@
 {
   "data": [ {
     "date":"13/04/2019",
-    "payment_method": 1, -----> 1 en tienda, 2 pago en linea
-    "total": 7900.0,
-    "details": ["Muy Cubano", "Muy Muy paisa"]
-  },{
-    "date":"13/04/2019",
     "payment_method": 1,
     "total": 7900.0,
-    "details": ["Muy Cubano", "Muy Muy paisa"]
+    "details": ["Normal Cubano", "Grande paisa"]
   },{
-    "date":"13/04/2019",
+    "date":"13/05/2019",
+    "payment_method": 2,
+    "total": 7900.0,
+    "details": ["Normal Fresco"]
+  },{
+    "date":"13/06/2019",
     "payment_method": 1,
     "total": 7900.0,
-    "details": ["Muy Cubano", "Muy Muy paisa"]
+    "details": ["Grande Caribeño"]
   }
   ],
   "status": "ok",
