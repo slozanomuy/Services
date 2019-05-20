@@ -1,7 +1,7 @@
 {
   "data": {
     "hasAvailableStore": true,
-    "availableStoreId": 6,
+    "availableStoreId": 7,
     "hasDeliveryDelay": true,
     "deliveryDelay": 15,
     "deliveryValue": 3500.0
