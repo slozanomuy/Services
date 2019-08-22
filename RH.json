@@ -1,0 +1,82 @@
+{
+  "Carlos Velasquez": {
+    "id": 1,
+    "position": "CEO",
+    "salary": "5",
+    "phone": "3109909090",
+    "email": "ceo@enterprise.com",
+    "upperRelation": 0
+  },
+  "Mateo Rodriguez": {
+    "id": 2,
+    "position": "CPO",
+    "salary": "4",
+    "phone": "3109909092",
+    "email": "cpo@enterprise.com",
+    "upperRelation": 1
+  },
+  "Germán Ramirez": {
+    "id": 3,
+    "position": "CTO",
+    "salary": "4",
+    "phone": "3109909093",
+    "email": "cto@enterprise.com",
+    "upperRelation": 1
+  },
+  "Ricardo Zuñiga": {
+    "id": 4,
+    "position": "Android Lead",
+    "salary": "3",
+    "phone": "3109909094",
+    "email": "al@enterprise.com",
+  "upperRelation": 3
+  },
+  "Oscar Zuluaga": {
+    "id": 5,
+    "position": "iOS Lead",
+    "salary": "3",
+    "phone": "3109909095",
+    "email": "il@enterprise.com",
+    "upperRelation": 3
+  },
+  "Gerardo Alvarez": {
+    "id": 6,
+    "position": "Project Manager",
+    "salary": "3",
+    "phone": "3109909096",
+    "email": "pm@enterprise.com",
+    "upperRelation": 2
+  },
+  "Miguel Carvajal": {
+    "id": 7,
+    "position": "BI Engineer",
+    "salary": "3",
+    "phone": "3109909097",
+    "email": "bie@enterprise.com",
+    "upperRelation": 2
+  },
+  "Carlos Beltrán": {
+    "id": 8,
+    "position": "Android Senior Engineer",
+    "salary": "2",
+    "phone": "3109909098",
+    "email": "ase@enterprise.com",
+    "upperRelation": 4
+  },
+  "Diego Bermeo": {
+    "id": 9,
+    "position": "Android Junior Engineer",
+    "salary": "1",
+    "phone": "3109909099",
+    "email": "aje@enterprise.com",
+    "upperRelation": 8
+  },
+  "Fernando Vargas": {
+    "id": 10,
+    "position": "BI Junior Engineer",
+    "salary": "2",
+    "phone": "3109909000",
+    "email": "bje@enterprise.com",
+    "upperRelation": 7
+  }
+}
